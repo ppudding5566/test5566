@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T09:17:50.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="vKevHEi820KYLP8L3XLr" version="20.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-01T03:12:13.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-Kg8X3evclNBFGs7zP30" version="20.0.2" type="github" pages="6">
   <diagram id="K2DlhM-J08PDRTjLnYzl" name="數據平台全球化架構">
     <mxGraphModel dx="1426" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -642,7 +642,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="InBnicRrhIuGmYRyvyZf" name="jp全球化架構圖">
-    <mxGraphModel dx="1426" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -911,7 +911,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OglpMEez0M24vf6w7h9z" name="jp全球化流程圖">
-    <mxGraphModel dx="1426" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
