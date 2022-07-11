@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T06:03:29.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7b7c6WSSt2Rnt4BqQAff" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-11T06:06:50.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rG9evzLGANbrw5cZ6VBE" version="20.0.4" type="github" pages="4">
   <diagram id="5DRYz6tXYQytCvr_Fafk" name="jp全球化架構圖">
     <mxGraphModel dx="1426" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -726,7 +726,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="jEkscbrPL_FZ8tvNxVhg" name="Page-3">
+  <diagram id="jEkscbrPL_FZ8tvNxVhg" name="收銀台程式架構">
     <mxGraphModel dx="1426" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -821,8 +821,8 @@
         <mxCell id="gNr50Z7VwSgwwoc7kvPK-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;JP server&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="645" y="110" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gNr50Z7VwSgwwoc7kvPK-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;JP Adapter&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="545" y="160" width="90" height="40" as="geometry" />
+        <mxCell id="gNr50Z7VwSgwwoc7kvPK-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;JP Adapter&lt;br&gt;(gRPC)&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="545" y="150" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gNr50Z7VwSgwwoc7kvPK-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=24;curved=1;" edge="1" target="gNr50Z7VwSgwwoc7kvPK-22" parent="1">
           <mxGeometry relative="1" as="geometry">
