@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T06:06:50.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rG9evzLGANbrw5cZ6VBE" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-12T01:43:02.711Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_Gc9bzDuhOdvcGVM1U1V" version="20.0.4" type="github" pages="4">
   <diagram id="5DRYz6tXYQytCvr_Fafk" name="jp全球化架構圖">
     <mxGraphModel dx="1426" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,7 +269,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Y66mjn2vt_lMn1OTEza" name="cashier">
-    <mxGraphModel dx="1426" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -700,18 +700,8 @@
         <mxCell id="-Fto9yu0AVBZY4muQZHN-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;place order&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="570" y="717" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-Fto9yu0AVBZY4muQZHN-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="650" as="sourcePoint" />
-            <mxPoint x="680" y="710" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="650" />
-              <mxPoint x="660" y="700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Fto9yu0AVBZY4muQZHN-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;if no kyc&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="609" y="665" width="70" height="40" as="geometry" />
+        <mxCell id="-Fto9yu0AVBZY4muQZHN-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;if no kyc, auto place order&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="535" y="680" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Fto9yu0AVBZY4muQZHN-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -723,11 +713,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="nfy-qYbOBwfuo-4wqCS--1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569" y="690" as="sourcePoint" />
+            <mxPoint x="679" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="jEkscbrPL_FZ8tvNxVhg" name="收銀台程式架構">
-    <mxGraphModel dx="1426" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
